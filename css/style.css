@@ -103,6 +103,16 @@ h6 {
   color: #fff;
 }
 
+.pull-left {
+    float: left;
+}
+
+/*font-awesome*/
+.schedule-item .fa,.schedule-item .fab,.schedule-item .fad,.schedule-item .fal,.schedule-item .far,.schedule-item .fas{
+  float: left;
+  font-size: 30px;
+}
+
 /* Sections Header
 --------------------------------*/
 
